@@ -4,6 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git push origin master can push modify files to remote resp.
 Creating a new branch is quick and simple.
+我就在学习git，和java
 
 life is difficult.
 we must be active.
